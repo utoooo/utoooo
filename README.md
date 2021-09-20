@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @utoooo
 - 👀 I’m interested in Data Sciecne, Marketing, Finance, Gender Equality
 - 🌱 I’m currently learning Data Science with Python.
-- 💞️ I’m looking to collaborate on the Data Science Project or founding any gender equality organization.
+- 💞️ I’m looking to collaborate on the Data Science Project or founding any type of gender equality organization.
 - 📫 How to reach me: kawahara_yuto@student.smc.edu
 
 <!---
