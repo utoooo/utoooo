@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @utoooo
-- 👀 I’m interested in Data Sciecne, Marketing, Finance, Neuro Science.
+- 👀 I’m interested in Data Sciecne, Marketing, Finance, Neuroscience.
 - 🌱 I’m currently learning Data Science with Python.
 - ⛳️ I’m looking for the opportunities to collaborate on the Data Science Project or founding any type of gender equality organization.
 
